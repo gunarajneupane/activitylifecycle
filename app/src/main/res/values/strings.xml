@@ -1,9 +1,7 @@
 <resources>
-    <string name="app_name">Two Activities</string>
-    <string name="button_main">Send</string>
-    <string name="editText_main">Enter Your Message Here</string>
-    <string name="text_header">Message Received</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
-    <string name="text_header_reply">Reply Received</string>
+    <!-- Title of app -->
+    <string name="app_name">ActivityLifecycle Counter Homework</string>
+    <string name="ShowCount">0</string>
+    <string name="count">Count</string>
+    <string name="comment_here">Comment Here</string>
 </resources>
